@@ -1,1 +1,1 @@
-Finanse Tracker
+**Expanse Tracker**
